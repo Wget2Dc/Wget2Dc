@@ -1,6 +1,6 @@
 👋 Hi, I’m Carlos Orellana (@Wget2Dc)
 ---
-- 💞️ I am collaborating with DNA GROUP
-- 📫 How to reach me: carlosorellana@thebonding.cl
+- 💞️ I am collaborating with MyDNA https://www.linkedin.com/company/mydna-talent-acquisition/mycompany/verification/
+- 📫 How to reach me: carlosorellana.dev@gmail.com
 
 
